@@ -71,5 +71,5 @@ description : https://www.acmicpc.net/problem/1259
 ## 🕵️참여자
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=an3735297)](https://solved.ac/an3735297)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsrkd1970)](https://solved.ac/dbsrkd1970)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjs173)](https://solved.ac/bjs173)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjs713)](https://solved.ac/bjs713)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaworkd91)](https://solved.ac/rlaworkd91)

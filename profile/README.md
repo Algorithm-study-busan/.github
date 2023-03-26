@@ -5,7 +5,6 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=geunskoooo)](https://solved.ac/geunskoooo)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsrkd1970)](https://solved.ac/dbsrkd1970)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjs713)](https://solved.ac/bjs713)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaworkd91)](https://solved.ac/rlaworkd91)
 
 ## ✅ 참여 방법
 1. branch 를 생성하며 아침을 시작합니다. 이때 branch 생성 규칙을 지킨다!

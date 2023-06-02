@@ -1,5 +1,5 @@
 
-# 매일매일
+# 매일매일 - 현재 잠시 중단 되었습니다.
 ## 🕵️참여자
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=an3735297)](https://solved.ac/an3735297)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=geunskoooo)](https://solved.ac/geunskoooo)

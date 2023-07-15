@@ -1,11 +1,10 @@
 
-# 매일매일 - 현재 잠시 중단 되었습니다.
+# 매일매일 - 모집중
+
+![IMG_0879](https://github.com/Algorithm-study-busan/.github/assets/73428423/5605c87b-d3cc-4e09-8056-d05d129fd031)
+
 ## 🕵️참여자
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=an3735297)](https://solved.ac/an3735297)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=geunskoooo)](https://solved.ac/geunskoooo)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsrkd1970)](https://solved.ac/dbsrkd1970)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjs713)](https://solved.ac/bjs713)
-
 ## ✅ 참여 방법
 1. 1주 동안 문제를 풀 branch 를 생성합니다.
 2. 1주를 보내며 푼 문제들을 commit 합니다. 이때 commit 규칙을 지킨다!

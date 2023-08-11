@@ -5,6 +5,7 @@
 
 ## 🕵️참여자
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=an3735297)](https://solved.ac/an3735297)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsrkd1970)](https://solved.ac/dbsrkd1970)
 ## ✅ 참여 방법
 1. 1주 동안 문제를 풀 branch 를 생성합니다.
 2. 1주를 보내며 푼 문제들을 commit 합니다. 이때 commit 규칙을 지킨다!
